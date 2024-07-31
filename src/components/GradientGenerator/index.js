@@ -16,7 +16,6 @@ const gradientDirectionsList = [
   {directionId: 'RIGHT', value: 'right', displayText: 'Right'},
   {directionId: 'LEFT', value: 'left', displayText: 'Left'},
 ]
-// Write your code here
 
 class GradientGenerator extends Component {
   state = {
